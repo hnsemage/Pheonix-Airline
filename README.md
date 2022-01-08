@@ -10,4 +10,6 @@ Following is the Flow chart of our website
 Following is the Site Map of our website
 ![Site Map](https://user-images.githubusercontent.com/74373896/148655111-5e03fc49-2b25-47b0-88bb-bf48187ce1a9.jpg)
 
-[SE204.3_Development_of_Enterprise_Applications.docx](https://github.com/hnsemage/Pheonix-Airline/files/7833741/SE204.3_Development_of_Enterprise_Applications.docx)
+Following is the report of our project
+[SE204.3_Development_of_Enterprise_Applications.pdf](https://github.com/hnsemage/Pheonix-Airline/files/7833748/SE204.3_Development_of_Enterprise_Applications.pdf)
+
