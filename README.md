@@ -1,5 +1,5 @@
 # Pheonix-Airline
-This is a web application design for Pheonix-Airline management system. This is developed to automate all the processor which was done manually. I was assigned to develop the staff related html pages, jsp pages, servlets, js pages, css pages and databases. 
+This is a web application design for Pheonix-Airline management system. This is developed to automate all the processor which was done manually. This project was done as a group project and I was assigned to develop the staff related html pages, jsp pages, servlets, js pages, css pages and databases. 
 
 Following is the Database model of our website
 ![Database mODEL](https://user-images.githubusercontent.com/74373896/148655044-857c063c-7da4-48b8-8090-b3f2c6a6ced9.jpeg)
